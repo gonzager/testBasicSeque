@@ -1,4 +1,4 @@
-# Ejercicio Báico
+# Ejercicio Básico
 
 Este es un ejercicio básico que convina express con sequielize y las relaciones uno a muchos (1..N). También se hace una presentacion sobre las validaciones de schema y los middlewares para realizar validaciones.
 
