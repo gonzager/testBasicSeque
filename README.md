@@ -100,7 +100,7 @@ curl --location 'http://localhost:3000/post/1/comentario' \
 --header 'Content-Type: application/json' \
 --data '{
 
-    "nombre": "Trabajo Practico",
+    "comentario": "Trabajo Practico",
     "fecha": "2023-12-24"
 }'
 ```
